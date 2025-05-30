@@ -2,7 +2,7 @@ Bored lunchtime coding challenge: Run application to simulate 10 x 10 grid of Ea
 
 Then simulate the cells transformation Earth (becomes) Tree (becomes) Fire (becomes) Earth ect..
 
-output: 
+output example: 
 
 |🔥|🔥|🟫|🔥|🟫|🌲|🟫|🔥|🌲|🟫|
 |🟫|🔥|🌲|🔥|🌲|🌲|🌲|🟫|🟫|🟫|
