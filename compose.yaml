@@ -1,0 +1,6 @@
+﻿services:
+  forestfiresimulation:
+    image: forestfiresimulation
+    build:
+      context: .
+      dockerfile: ForestFireSimulation/Dockerfile
